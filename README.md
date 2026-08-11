@@ -1,3 +1,4 @@
 # TCDNet
-Implementation of TCDNet in Pytorch.
-The code and datasets will be uploaded after the paper is accepted. Please wait, thank you!
+Implementation of TCDNet in Pytorch. 
+The source code and datasets are currently being organized and will be made publicly available once the preparation is completed. 
+Thank you for your interest.
